@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/drawable/gardiant.xml" value="0.1015" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/drawable/gradient_theme_oval.xml" value="0.1065" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_add_student.xml" value="0.21" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_batch_details.xml" value="0.128125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_batch_list.xml" value="0.16" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/activity_phone.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/layout/create_batch_item_list.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/FireBaseApp/app/src/main/res/menu/bottom_app_bar.xml" value="0.12395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
